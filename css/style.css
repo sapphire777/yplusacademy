@@ -33,7 +33,7 @@ span.top-icon {
 ul.nav.top-links a {color: #ffff; font-size: 10pt; font-family: 'Quicksand', sans-serif; 
     transition: all 400ms ease 0s;
 }
-ul.nav.top-links a:hover{color: #000; font-size:10.5pt; }
+ul.nav.top-links a:hover{color: #000; font-size:10.2pt; }
 
 /*------Navigation Bar Styling------*/
 .navbar {
@@ -68,6 +68,9 @@ ul.nav.top-links a:hover{color: #000; font-size:10.5pt; }
 .button:hover:before { width: 100%;
 }  
 
+.btn-danger {background-color: #f26a44; border-color: #f26a44;
+}
+.btn-danger:hover {background-color: #f26a44; border-color: #f26a44}
 /*------Carousel Styling------*/
 .carousel-inner {height: 500px;}
 

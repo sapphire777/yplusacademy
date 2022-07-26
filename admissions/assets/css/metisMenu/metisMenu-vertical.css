@@ -56,7 +56,7 @@
 
 .sidebar-nav .metismenu ul a {
     padding: 10px 15px 10px 46px;
-}.sidebar-nav .metismenu ul li.active > a{color: #b1fcef;background: #7f2b6f;} 
+}.sidebar-nav .metismenu ul li.active > a{color: #b1fcef;background: #912254;} 
 
 .sidebar-nav .metismenu ul ul a {
     padding: 10px 15px 10px 45px;
@@ -67,12 +67,12 @@
 .sidebar-nav .metismenu a:active {
     color: #50c2cf;
     text-decoration: none;
-    background: #7f2b6f;
+    background: #89204f;
 }
 .sidebar-nav .metismenu > li.active > a {
-    background: #712863;
-    border-bottom: 1px solid #50c2cf;
-    color: #50c2cf;
+    background: #89204f;
+    border-bottom: 1px solid #bfb431;
+    color: #bfb431;
 }
 .sidebar-nav .metismenu li .icon-wrap{
 	margin-right:10px;
@@ -90,5 +90,5 @@
 }
 #sidebar.active .metismenu li .submenu-angle li a {
     padding: 10px 10px 10px 10px;
-    background: #7f2b6f;
+    background: #9f265d;
 }
